@@ -1,6 +1,6 @@
 # Saranphat Roungkitrakran
 
-Hello Guy, Myname is Saranphat Roungkitrakran. Iwill explain about this module
+Hello Guy, My　name is Saranphat Roungkitrakran. Iwill explain about this module
 
   - Show about my profile
   - Show my name in Thai and Japanese
