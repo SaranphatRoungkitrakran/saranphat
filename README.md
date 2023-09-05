@@ -8,7 +8,7 @@ Hello Guy, My name is Saranphat Roungkitrakran. I will explain about this module
 
 ### How to install 
 
-If you already installed python.You can use command prompt or python shell and use command 'pip'
+If you already installed python. You can use command prompt or python shell and use command 'pip'
 
 ```sh
 pip install saranphat
