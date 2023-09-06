@@ -28,6 +28,21 @@ mystatus = Saranphat()
     mystatus.WhatAmI()
 ```
 
+and this is the result:
+
+```sh
+*********************************************************************************
+ This Saranphat module is for practice making python library
+ *********************************************************************************
+นาย ศรัณย์ภัทร เรืองกิจตระการ
+ルンキッタカーン サランパット
+*********************************************************************************
+My name is Saranphat Roungkitrakran. And my nickname is J. I am from Thailand.
+I live in Maruyama Fujimino-Shi Saitama-Ken Japan. This year I am 25 years old.
+I work in Kamiitasosei Co.LTD. Contract me by email Gungungungundam@hotmail.com.
+*********************************************************************************
+```
+
 ### Contract us
 
 You can contract me by following list:
